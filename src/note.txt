@@ -1,0 +1,38 @@
+
+
+uniqid - npm -node
+     using for specific id
+
+
+
+
+
+
+https://www.youtube.com/watch?v=4811aeA64ek
+
+
+"https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1"
+
+https://www.youtube.com/watch?v=4811aeA64ek
+                      v=4811aeA64ek
+
+https://www.youtube.com/embed/4811aeA64ek?autoplay=1
+
+state lifting
+
+              state                  home
+          name    updatefunction
+
+   updatefn                                                          name
+      add                                                     view             
+
+
+
+
+      dragging events
+  --------------------------
+
+  OnDragStart
+  OnDragOver
+  OnDrop
+   (events with target value)    
